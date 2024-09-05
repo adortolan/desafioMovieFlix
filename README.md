@@ -33,5 +33,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Exceção 3.1 - Texto vazio
 3.1.1. O sistema apresenta uma mensagem de que não é permitido texto vazio na avaliação
 
+### Competências avaliadas:
+- Desenvolvimento TDD de API Rest com Java e Spring Boot
+
+- Realização de casos de uso
+
+- Consultas a banco de dados relacional com Spring Data JPA
+
+- Tratamento de erros com respostas HTTP customizadas
+
+- Controle de acesso por perfil de usuário e rotas
 
 
